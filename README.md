@@ -23,12 +23,12 @@
 
 ## <a name="introduction">🌟 Introduction</a>
 
-**`[EN]`** This is an AI-powered learning app built with Next.js, Vapi, and Clerk. It enables users to create custom, voice-driven courses (“Companions”), participate in real-time conversational lessons with smooth, low-latency voice powered by Vapi, and easily manage authentication and billing through a secure subscription system powered by Clerk.
+ This is an AI-powered learning app built with Next.js, Vapi, and Clerk. It enables users to create custom, voice-driven courses (“Companions”), participate in real-time conversational lessons with smooth, low-latency voice powered by Vapi, and easily manage authentication and billing through a secure subscription system powered by Clerk.
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-* **[Clerk](https://clerk.com)is a unified platform for authentication, user management, and billing. It offers embeddable UI components, flexible APIs, and admin dashboards for secure user management. Clerk also simplifies subscription management, allowing you to define plans, create pricing pages, and control access based on subscription tiers—all in one solution.
+- **[Clerk](https://clerk.com)** is a unified platform for authentication, user management, and billing. It offers embeddable UI components, flexible APIs, and admin dashboards for secure user management. Clerk also simplifies subscription management, allowing you to define plans, create pricing pages, and control access based on subscription tiers—all in one solution.
 
 
 - **[Next.js](https://nextjs.org/)** is a powerful React framework that enables the development of fast, scalable web applications with features like server-side rendering, static site generation, and API routes for building full-stack applications. 
