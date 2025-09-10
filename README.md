@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-    <a href="https://converso-fv.vercel.app" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
     </a>
   <br />
@@ -24,18 +23,17 @@
 
 ## <a name="introduction">🌟 Introduction</a>
 
-**`[EN]`** Converso is an AI-powered learning app built with Next.js, Vapi, and Clerk. It enables users to create custom, voice-driven courses (“Companions”), participate in real-time conversational lessons with smooth, low-latency voice powered by Vapi, and easily manage authentication and billing through a secure subscription system powered by Clerk.
+**`[EN]`** This is an AI-powered learning app built with Next.js, Vapi, and Clerk. It enables users to create custom, voice-driven courses (“Companions”), participate in real-time conversational lessons with smooth, low-latency voice powered by Vapi, and easily manage authentication and billing through a secure subscription system powered by Clerk.
 
-**`[FR]`** Converso est une application d’apprentissage intelligente propulsée par l’IA, développée avec Next.js, Vapi et Clerk. Elle permet aux utilisateurs de créer des cours sur mesure, animés par la voix (« Companions »), de suivre des leçons conversationnelles en temps réel avec une voix fluide et à faible latence grâce à Vapi, et de gérer simplement l’authentification et la facturation via un système d’abonnement sécurisé assuré par Clerk.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-* **[Clerk](https://jsm.dev/converso-clerk)** is a unified platform for authentication, user management, and billing. It offers embeddable UI components, flexible APIs, and admin dashboards for secure user management. Clerk also simplifies subscription management, allowing you to define plans, create pricing pages, and control access based on subscription tiers—all in one solution.
+* **[Clerk]is a unified platform for authentication, user management, and billing. It offers embeddable UI components, flexible APIs, and admin dashboards for secure user management. Clerk also simplifies subscription management, allowing you to define plans, create pricing pages, and control access based on subscription tiers—all in one solution.
 
 
 - **[Next.js](https://nextjs.org/)** is a powerful React framework that enables the development of fast, scalable web applications with features like server-side rendering, static site generation, and API routes for building full-stack applications. 
 
-- **[Sentry](https://jsm.dev/converso-sentry)** is an error tracking and performance monitoring tool that helps developers fix bugs faster by providing real-time alerts, stack traces, and performance insights.
+- **[Sentry](https://sentry)** is an error tracking and performance monitoring tool that helps developers fix bugs faster by providing real-time alerts, stack traces, and performance insights.
 
 - **[shadcn/ui](https://ui.shadcn.com/)** is a customizable component library built on Radix UI and Tailwind CSS. It offers a modern, accessible design system with pre-built components that are easy to theme and extend, making it ideal for building polished UIs with minimal effort.
 
@@ -45,7 +43,7 @@
   
 - **[TypeScript](https://www.typescriptlang.org/)** is a superset of JavaScript that adds static typing, providing better tooling, code quality, and error detection for developers, making it ideal for building large-scale applications.
   
-* **[Vapi](https://jsm.dev/converso-vapi)** is a developer-centric voice AI platform that enables the creation of conversational voice agents with low-latency voice interactions, speech-to-text, and text-to-speech capabilities. It supports multilingual conversations, customizable voices, and seamless integration with various AI models and tools.
+* **[Vapi](https://vapi)** is a developer-centric voice AI platform that enables the creation of conversational voice agents with low-latency voice interactions, speech-to-text, and text-to-speech capabilities. It supports multilingual conversations, customizable voices, and seamless integration with various AI models and tools.
 
 
 ## <a name="features">📝 Features</a>
@@ -125,7 +123,7 @@ NEXT_PUBLIC_SUPABASE_URL=
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
 ```
 
-Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on: [Appwrite](https://jsm.dev/converso-appwrite), [Clerk](https://jsm.dev/converso-clerk), [Sentry](https://jsm.dev/converso-sentry), [Vapi](https://jsm.dev/converso-vapi).
+Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on: [Appwrite](https://appwrite), [Clerk](https://), [Sentry](https://sentry), [Vapi](https://vapi).
 
 **Running the Project**
 
